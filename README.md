@@ -7,7 +7,7 @@
   - [osTicket: osTicket Post Installation Configurations](https://github.com/FernPalacios/osTicket_Post_Install_Config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/FernPalacios/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>s
-   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/fernpalacios/azure-network-protocols)
+   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/FernPalacios/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 <h2>🤳Connect with me:</h2>
 
